@@ -1,0 +1,15 @@
+{
+  "name": "winston_error_logging_example",
+  "version": "1.0.0",
+  "description": "An example build following a tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "winston": "^3.17.0"
+  }
+}
